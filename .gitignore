@@ -1,0 +1,43 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Unity generated files
+*.csproj
+*.unityproj
+*.sln
+*.sln.DotSettings.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity crash and profiler captures
+[Mm]emoryCaptures/
+sysinfo.txt
+
+# Visual Studio / Rider / VS Code local data
+.vs/
+.idea/
+.vscode/
+*.user
+*.userprefs
+*.suo
+*.tmp
+*.pidb.meta
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Keep Unity project source/config tracked:
+# Assets/, Packages/, ProjectSettings/, and their .meta files should be committed.
